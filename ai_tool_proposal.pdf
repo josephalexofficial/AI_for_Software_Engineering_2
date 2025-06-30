@@ -1,0 +1,42 @@
+📄 AI Tool Proposal – Bonus Task
+Title: AI DocuMate – Intelligent Code Documentation Assistant
+Submitted By: Joseph Alex
+Course: AI in Software Engineering – Week 4 Assignment
+
+🧠 Tool Overview
+AI DocuMate is a proposed AI-powered solution designed to automate the generation and maintenance of source code documentation. It addresses the common software engineering challenge of outdated, missing, or inconsistent documentation—especially in fast-paced or legacy codebases.
+
+🎯 Purpose
+Automatically generate high-quality docstrings, function summaries, and API references.
+
+Enhance team collaboration, developer onboarding, and long-term maintainability.
+
+Integrate seamlessly into existing CI/CD workflows and IDEs.
+
+🔄 Workflow
+Code Parsing: Analyzes source code using abstract syntax trees (AST).
+
+AI-Powered Understanding: Uses large language models to extract intent, arguments, return types, and logic.
+
+Doc Generation: Adds:
+
+Inline docstrings for classes/functions.
+
+Markdown/API reference files.
+
+Change Tracking: Detects diffs and regenerates docs only for updated sections.
+
+IDE & Git Integration: Works as a plugin or pre-commit hook in VS Code, PhpStorm, etc.
+
+🌍 Impact
+Saves time by reducing manual documentation tasks.
+
+Improves code readability and team productivity.
+
+Encourages documentation as part of DevOps culture.
+
+Bridges technical gaps between devs, PMs, and stakeholders.
+
+✅ Why It Matters
+Good documentation is critical but often neglected. AI DocuMate helps solve this by making documentation smart, automatic, and continuous, promoting better software quality and team collaboration.
+
